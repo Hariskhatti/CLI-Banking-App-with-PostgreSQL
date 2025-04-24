@@ -1,4 +1,5 @@
-# 💳 Java Console-Based Banking System with PostgreSQL
+# 💳 CLI Banking App with PostgreSQL
+
 
 Ek simple sa lekin powerful **banking system** banaya hai Java mein — jisme user register, login, account create, paisa jama/nikal aur transfer sab kuch ho sakta hai. Yeh poora console se chal raha hai aur backend mein PostgreSQL use ho raha hai. Pure JDBC ke sath likha gaya hai, bina kisi external library ke.
 
